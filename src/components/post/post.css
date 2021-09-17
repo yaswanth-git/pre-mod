@@ -1,0 +1,25 @@
+.post-text-editor{
+    width: auto;
+    min-height: 100px;
+    font-size: larger;
+    display: block;
+    margin: 10px;
+}
+.post-button{
+    background-color: lightgreen;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    min-height: 24px;
+}
+.post-text{
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.post-text > h1{
+    text-align: center;
+}
