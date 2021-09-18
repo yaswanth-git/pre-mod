@@ -48,3 +48,6 @@
   max-width: 800px;
   margin: auto;
 }
+.login-prompt {
+  text-align: center;
+}
