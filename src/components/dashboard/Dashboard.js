@@ -90,7 +90,7 @@ export default function Dashboard() {
   return (
     <div>
       <div className="title-bar">
-        <h1>Sell A Moment</h1>
+        <h1>ArticalGram</h1>
         <div className="log-container">
           {!currentUser ? (
             <div className="login-link">
